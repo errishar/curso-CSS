@@ -1,11 +1,18 @@
 @charset "UTF-8";
 /* Documento CSS */
 
+
+
+
 h1{ text-align: center; 
     color: rgb(0, 0, 255)
-    }
+}
 
 p{font-family: Tahoma, Geneva, sans-serif;
     font-size: 18px;
     color:green
-    }
+}
+
+body{
+    background-color: rgb(207, 147, 16);
+}
